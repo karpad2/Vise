@@ -1,0 +1,65 @@
+STEP fordítás Solid Edge formátumba
+Dátum: szerda,május 13,2020 06:13du.
+Forrásfájl: E:\Nextcloud\Mechatronika\F\satu\step\Satu.STEP
+Szerzõ: Ismeretlen
+Szervezet: Ismeretlen
+Forrás rendszer: SolidWorks 2017
+
+Hardver:
+Processzor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+Operációs rendszer: Windows 8 Professional
+Telepített memória: 11.85 GB
+
+Szoftver információ
+Parasolid verzió: 30.0.167
+PSBodyShop verzió: 30.0.81
+Step fordító verzió: 3.0.52
+Solid Edge verzió: 110.00.00.107 x64
+
+STEP importálási beállítások
+Háromszögelt testek importálása: Be
+Importálás testellenõrzés: Ki
+Görbék importálása: Be
+Import NincsMentés: Be
+Több test importálása egyetlen alkatrészfájlként: Be
+Összevont felületek importálása: Be
+Boole testek importálása: Be
+Bázis alakelem létrehozása: Be
+Geometria egyszerûsítése: Be
+Görbék importálása: Be
+Importálási meghajtó: C:
+Összevont felületek importálása: Be
+Felületek importálása: Be
+Importálási kimeneti útvonal: E:\Nextcloud\Mechatronika\F\satu\step
+Importálási alapértelmezett kimeneti útvonal engedélyezése: Be
+Útvonal importálása: 
+
+Fordítás Parasolid adattípusokba...
++Szerelés kezdete: 1
++Solid Edge szerelés készítése E:\Nextcloud\Mechatronika\F\satu\step\Satu.asm
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\alap.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\Középsõrész.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\pofa2.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\vége_1.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\pofa1.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\tengely.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\kar_1.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\Gömb fej.par
+|--+A(z) E:\Nextcloud\Mechatronika\F\satu\step\Gömb fej.par fájl újra felhasználása
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\tengely_vége.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\Szorito.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\Szorito 2.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\stift.par
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\pan head cross recess screw_din_DIN EN ISO 7045 - M5 x 16 - Z - 16C.par
+|--+A(z) E:\Nextcloud\Mechatronika\F\satu\step\pan head cross recess screw_din_DIN EN ISO 7045 - M5 x 16 - Z - 16C.par fájl újra felhasználása
+|--+A(z) E:\Nextcloud\Mechatronika\F\satu\step\pan head cross recess screw_din_DIN EN ISO 7045 - M5 x 16 - Z - 16C.par fájl újra felhasználása
+|--+A(z) E:\Nextcloud\Mechatronika\F\satu\step\pan head cross recess screw_din_DIN EN ISO 7045 - M5 x 16 - Z - 16C.par fájl újra felhasználása
+|--+Solid Edge alkatrész készítése E:\Nextcloud\Mechatronika\F\satu\step\socket set screw dog point_din_DIN 915 - M8 x 10-C.par
+|--+A(z) E:\Nextcloud\Mechatronika\F\satu\step\socket set screw dog point_din_DIN 915 - M8 x 10-C.par fájl újra felhasználása
++Összes alkatrész :  37
++Szerelések: 0
++Testek: 37
++Felületek:  0
++Szerelés vége: 1
+Fordítási folyamat befejezõdött
+A fordításhoz és poszt processzáláshoz szükséges teljes idõ:00 : 00 : 02
